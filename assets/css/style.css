@@ -12263,9 +12263,7 @@ section.popular-cause-section .section-title-tow {
         background-position: center;
     }
     .logoWrap {
-    
-        width: 192px;
-       
+    width: unset;
     }
         div#hamburger i.fal.fa-bars {
         position: absolute;
